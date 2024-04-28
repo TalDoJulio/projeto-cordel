@@ -15,31 +15,31 @@ html, body {
     height: 100vh;
 }
 p.paragrafo {
-    font-family: "Sriracha", cursive;
+    font-family: var(--fonte3);
     font-weight: 400;
     font-style: normal;
     font-size: 2em;
     padding: 30px 20px;
-    font-size: 3vh;
+    font-size: 3vw;
     text-overflow: clip;
 }
 p#imagem {
     color: white;
     background-color: #02170388;
-    font-family: "Sriracha", cursive;
+    font-family: var(--fonte3);
     font-weight: 400;
     font-style: normal;
-    font-size: 3vh;
+    font-size: 3vw;
     padding: 20px 1px;
-    width: 40vh;
+    width: 40vw;
 }
 p#imagem2 {
     background-color: #585d5156;
-    font-family: "Sriracha", cursive;
+    font-family: var(--fonte3);
     font-weight: 400;
     font-style: normal;
-    font-size: 2em;
-    width: 40vh;
+    font-size: 3vw;
+    width: 40vw;
 }
 header {
     background-color: black;
